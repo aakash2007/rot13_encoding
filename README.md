@@ -3,4 +3,6 @@
 Requires Python3
 
 Download the files and in the folder run:
-$ python3 main.py
+```
+	$ python3 main.py
+```
